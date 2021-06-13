@@ -1,6 +1,5 @@
 // import important parts of sequelize library
 const { Model, DataTypes } = require('sequelize');
-const { validator } = require('sequelize/types/lib/utils/validator-extras');
 // import our database connection from config.js
 const sequelize = require('../config/connection');
 
@@ -33,7 +32,7 @@ Product.init(
       allowNull: false,
       defaultValue: 10,
       validate: {
-        isNumeric: true,
+        isInt: true,
       }
     },
     category_id: {
