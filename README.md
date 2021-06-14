@@ -1,6 +1,5 @@
  #  E-Commerce Back-End
-  Screenshot
-
+   ![Screen Shot 2021-06-13 at 5 15 16 PM](https://user-images.githubusercontent.com/79954805/121826269-c692ab80-cc6b-11eb-8d57-f05dc14f0808.png)
 
 ## Description 
 
@@ -39,7 +38,9 @@ Use Insomnia or Postman to test route functionality.
 
 Walkthrough Video:
 Category Routes: https://drive.google.com/file/d/1q2SfnwgZbdDh_xrEhj6DzeHqoSwKMYjj/view
+
 Product Routes: https://drive.google.com/file/d/1Kt3O0f6tHN3aIH7xNunnysixu-QUBXcT/view
+ 
 Tag Routes: https://drive.google.com/file/d/1FlLgKELNATWM3Il6OE9D0PYfnEfdOFiT/view
 
 ## Questions
