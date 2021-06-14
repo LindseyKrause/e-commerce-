@@ -78,7 +78,7 @@ router.delete('/:id', (req, res) => {
       id: req.params.id
     }
   }).then(data => {
-    // res.json(data);
+    res.status(200).json(data);
     console.log('TAG DESTROYED!')
   })
     .catch(err => {

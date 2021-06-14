@@ -19,12 +19,8 @@ This project adds functionality to an e-commerce site by making the back-end of 
 2. Run NPM init to install dependencies
 3. Use mysql (mysql -u <username> -p, enter password) to SOURCE db/schema.sql (absolute path to schema.sql). 
 4. Start server using npm start
-5. Populate the database using npm run seed
+5. Populate the database using npm run seed in separate shell while server is running
 6. Utilize Insomnia to test route functionality for creating, reading, updating, and deleting entries.
-
-Walkthrough Video:
-
-
 ## Technologies
 - Javascript
 - node.js
@@ -42,6 +38,9 @@ Created using UofA Trilogy Starter code.
 Use Insomnia or Postman to test route functionality.
 
 Walkthrough Video:
+Category Routes: https://drive.google.com/file/d/1q2SfnwgZbdDh_xrEhj6DzeHqoSwKMYjj/view
+Product Routes: https://drive.google.com/file/d/1Kt3O0f6tHN3aIH7xNunnysixu-QUBXcT/view
+Tag Routes: https://drive.google.com/file/d/1FlLgKELNATWM3Il6OE9D0PYfnEfdOFiT/view
 
 ## Questions
 If you have any questions or need additional information, you can reach me at the following places:

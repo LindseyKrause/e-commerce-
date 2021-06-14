@@ -99,6 +99,7 @@ router.delete('/:id', (req, res) => {
       id: req.params.id
     }
   }).then(data => {
+    res.status(200).json(data);
     console.log('PRODUCT DESTROYED!')
   })
     .catch(err => {
